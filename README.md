@@ -4,10 +4,11 @@
 
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="320"/>
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="251"/>
+  <img src="https://media.giphy.com/media/ZgTR3UQ9XAWDvqy9jv/giphy.gif" width="188"/>
 </div>
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Andrey-WebDev&style=flat-square&color=blue" alt=""/>
+  <span><img src="https://komarev.com/ghpvc/?username=Andrey-WebDev&style=flat-square&color=blue" alt=""/><span>
 </div>
 
 <h1 align="center">Hi there, I'm Andrey</a> 
