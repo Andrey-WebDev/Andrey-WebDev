@@ -1,8 +1,7 @@
 <!-- <div align="center">
   <img src="https://media.giphy.com/media/1sgetPM00wWqJpVUTl/giphy.gif" width="200"/>
 </div> -->
-<h1 align="center">Hi there, I'm Andrey</a> 
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="22"/></h1>
+
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="320"/>
@@ -11,7 +10,8 @@
   <img src="https://komarev.com/ghpvc/?username=Andrey-WebDev&style=flat-square&color=blue" alt=""/>
 </div>
 
-___
+<h1 align="center">Hi there, I'm Andrey</a> 
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="22"/></h1>
 
 ### :necktie: **About Me :**
 
