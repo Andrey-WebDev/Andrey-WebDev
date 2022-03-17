@@ -1,5 +1,5 @@
-<!-- <div id="header" align="center">
-  <img src="https://media.giphy.com/media/1sgetPM00wWqJpVUTl/giphy.gif" width="100"/>
+<!-- <div align="center">
+  <img src="https://media.giphy.com/media/1sgetPM00wWqJpVUTl/giphy.gif" width="200"/>
 </div> -->
 <h1 align="center">Hi there, I'm Andrey</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="22"/></h1>
