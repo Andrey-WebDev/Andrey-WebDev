@@ -22,7 +22,7 @@
 
 - :telescope: I’m working as a web programmer and contribute to the development of the interface and backend for creating web applications.
 
-- :seedling: Learning How To Write Technical Content.
+- :seedling: I’m Write Technical Content.
 
 - :zap: In my free time I read technical articles and create websites.
 
