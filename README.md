@@ -73,7 +73,7 @@ ___
 
 ### :writing_hand: My portfolio :
 
-- :desktop: <a href="http://www.andrey-webdev.byethost7.com/" target="_blank">Andrey-WebDev</a> 
+- 💻 <a href="http://www.andrey-webdev.byethost7.com/" target="_blank">Andrey-WebDev</a> 
 
 <!--
 **Andrey-WebDev/Andrey-WebDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
