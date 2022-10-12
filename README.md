@@ -71,7 +71,7 @@ ___
 
 - :house: <a href="https://ideidlyadoma.ru/" target="_blank">ideidlyadoma.ru</a> 
 
-### :writing_hand: My portfolio :
+### 💁‍♂️ My portfolio :
 
 - 💻 <a href="http://www.andrey-webdev.byethost7.com/" target="_blank">Andrey-WebDev</a> 
 
